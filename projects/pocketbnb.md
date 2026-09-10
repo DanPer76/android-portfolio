@@ -1,0 +1,44 @@
+# PocketBnB
+
+## Role
+Mobile Application Developer
+
+## Period
+January 2016 – December 2017
+
+## Context
+Custom mobile application developed for a direct client to support B&B booking management, with native implementations for both Android and iOS (Swift).
+
+## Main Contributions
+- Development and delivery of the mobile application
+- Development of the native Android application
+- Development of the native iOS application in Swift
+- Integration with backend REST APIs and JSON-based services
+- Implementation of application flows related to booking management
+- Testing, release and maintenance activities
+- Publication support for Google Play and Apple App Store
+
+## Architecture & Patterns
+- Native Android / iOS development
+- MVC 
+
+## Technologies
+- Java
+- Swift
+- Android SDK
+- Xcode
+- Retrofit / Volley
+- Gson
+- Alamofire / RxAlamofire
+- RxJava / RxKotlin
+- RxSwift / RxCocoa
+- REST Web Services
+- JSON
+- Git / Bitbucket
+
+## Target
+- Android Smartphone
+- iPhone
+
+## Source Code
+This application was directly managed and delivered to the client. The source repository is not currently published in this portfolio and may be made available upon request where appropriate.
