@@ -18,7 +18,7 @@ Personal projects and directly managed applications may instead be documented, s
 - Java
 - Android SDK
 - Jetpack Compose
-- Android Jetpack: ViewModel, LiveData, Navigation, Room, DataStore, WorkManager
+- Android Jetpack: ViewModel, LiveData, Data Binding, Navigation, Room, DataStore
 - MVVM / Clean Architecture
 - Coroutines / Flow
 - Retrofit / Moshi
@@ -52,8 +52,11 @@ The project pages provide a summary of the context, my contribution, responsibil
 
 ### Direct Client Projects
 
-- Project 4
-- Project 5
+- [PocketBnB](projects/pocketbnb.md) — B&B booking management application developed end-to-end for Android and iOS (Swift).
+- [MyITS](projects/myits.md) — Company catalog management application with a guided order-creation workflow, developed for Android and iOS (Swift).
+- [Where2Go](projects/where2go.md) — Location-based application for discovering and managing events in the surrounding area.
+- [#Alll](projects/alll.md) — Social street-network application with real-time chat and push notifications.
+- [myLINCE](projects/mylince.md) — Customer loyalty and points-collection application with barcode / QR code integration.
 
 ## Personal Projects
 
