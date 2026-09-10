@@ -17,15 +17,14 @@ Personal projects and directly managed applications may instead be documented, s
 - Kotlin
 - Java
 - Android SDK
-- Jetpack Compose
-- Android Jetpack: ViewModel, LiveData, Data Binding, Navigation, Room, DataStore
+- Android Jetpack: Compose, ViewModel, LiveData, Data Binding, Navigation, Room, DataStore
 - MVVM / Clean Architecture
 - Coroutines / Flow
 - Retrofit / Moshi
 - REST API
 - Gradle
 - Git
-- Android Testing
+- Android Testing: JUnit, Mockito, MockK, Espresso, Compose UI Testing, MockServer
 - AI-assisted development
 - Agentic coding with AI tools integrated into the IDE, especially GitHub Copilot and Gemini in Android Studio
 
@@ -60,8 +59,8 @@ The project pages provide a summary of the context, my contribution, responsibil
 
 ## Personal Projects
 
-- Personal Project 1
-- Personal Project 2
+- [StayAtHomeIT2020](projects/stayathomeit2020.md) — Kotlin application created during the COVID-19 lockdown to compose and share layouts made of five photos with descriptions, including ViewModel-based state management and runtime permission handling.
+- [Skudo](projects/skudo.md) — Android tablet application for construction-site management, including worker, working-time and expense tracking.
 
 ## Public Repositories
 
